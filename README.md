@@ -21,4 +21,5 @@ Now Watch This is a movie list app that allows you to create lists of movies tha
 ### Database contains
 - User info
 - Movie lists
+- Movies
 
